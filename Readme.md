@@ -5,7 +5,7 @@
 # [CV]()
 ***
 # Hackathons
-- (https://imgpng.ru/download/57731)
+[1 place](https://imgpng.ru/download/57731)
 
 
 
