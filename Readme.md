@@ -36,6 +36,9 @@ Tasks:
 * 3 🥉 [International Digital Breakthrough](https://hacks-ai.ru/) "Churn of customers in the fast food industry" (2023) | [Solution](https://github.com/danzzzlll/international_cp-burger_king-) | Boostings, NLP
 * 3 🥉 [Digital Breakthrough](https://hacks-ai.ru/) "Prediction of the purchase of a parking space" (2023) | [Solution](https://github.com/danzzzlll/Digital_Breakthrough) | Boostings
 
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=linux,pytorch,ai,docker,fastapi,git,py,vim&perline=3)](https://skillicons.dev)
+
 
 
 
