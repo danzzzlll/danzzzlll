@@ -1,11 +1,6 @@
 # Daniil Okunev
-***
-# Github Stats
-# ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=danzzzlll&show_icons=true&theme=dark)
-***
 
 ### 👨🏻‍💻 Work experience
-
 Sber, ML engineer.
 Tasks:
 - Developed a reranking model for search and assistant retrival, which increased recommendation accuracy by 2x.
@@ -30,3 +25,17 @@ Tasks:
 - Worked with Greenplum: performed scoring analysis and developed customer churn forecasting models.
 - Trained and optimized gradient bousting models and classical machine learning algorithms, and ensured their monitoring in production.
 - Applied PySpark to perform ad-hoc big data analytics and operational extraction of business insights.
+
+### 🏆 Achievements
+* 3/20 🥉 [International Digital Breakthrough](https://hacks-ai.ru/) "Automatic dispatch of applications" (2024) | [Solution](https://github.com/danzzzlll/CP_International) | NLP, LLM
+* 1/20 🥇 IT Purple Hack "Churn of the SBER's salary client" (2024) | [Solution](https://github.com/danzzzlll/It_purple_hack)
+* 3/20 🥉 [International Digital Breakthrough](https://hacks-ai.ru/) "Churn of customers in the fast food industry" (2023) | [Solution](https://github.com/danzzzlll/international_cp-burger_king-)
+* 3/20 🥉 [Digital Breakthrough](https://hacks-ai.ru/) "Prediction of the purchase of a parking space" (2023) | [Solution](https://github.com/danzzzlll/Digital_Breakthrough)
+
+
+
+
+
+
+# Github Stats
+# ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=danzzzlll&show_icons=true&theme=dark)
