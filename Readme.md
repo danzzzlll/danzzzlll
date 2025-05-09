@@ -37,11 +37,7 @@ Tasks:
 * 3 🥉 [Digital Breakthrough](https://hacks-ai.ru/) "Prediction of the purchase of a parking space" (2023) | [Solution](https://github.com/danzzzlll/Digital_Breakthrough) | Boostings
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,pytorch,ai,docker,fastapi,git,py,vim&perline=3)](https://skillicons.dev)
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=linux,pytorch,ai,docker,fastapi,git,py,vim&perline=4)](https://skillicons.dev)
 
 
 # Github Stats
