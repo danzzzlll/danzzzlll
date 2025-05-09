@@ -27,10 +27,14 @@ Tasks:
 - Applied PySpark to perform ad-hoc big data analytics and operational extraction of business insights.
 
 ### 🏆 Achievements
-* 3/20 🥉 [International Digital Breakthrough](https://hacks-ai.ru/) "Automatic dispatch of applications" (2024) | [Solution](https://github.com/danzzzlll/CP_International) | NLP, LLM
-* 1/20 🥇 IT Purple Hack "Churn of the SBER's salary client" (2024) | [Solution](https://github.com/danzzzlll/It_purple_hack)
-* 3/20 🥉 [International Digital Breakthrough](https://hacks-ai.ru/) "Churn of customers in the fast food industry" (2023) | [Solution](https://github.com/danzzzlll/international_cp-burger_king-)
-* 3/20 🥉 [Digital Breakthrough](https://hacks-ai.ru/) "Prediction of the purchase of a parking space" (2023) | [Solution](https://github.com/danzzzlll/Digital_Breakthrough)
+* 2 🥈 Neftecode "SMILES GENERATION" (2025) | NLP, LLM, RL, GRPO
+* 1 🥇 RLT Hack "Automated procurement knowledge base" (2024) | [Solution](https://github.com/danzzzlll/RAG_RltHack) | NLP, LLM, RAG
+* 3 🥉 [International Digital Breakthrough](https://hacks-ai.ru/) "Automatic dispatch of applications" (2024) | [Solution](https://github.com/danzzzlll/CP_International) | NLP, LLM
+* 1 🥇 RuCode "Accent placement" (2023) | [Solution](https://github.com/danzzzlll/rucode-2023) | NLP, Transformers, LSTM
+* 1 🥇 HSExSber ML Hack (2023) | [Solution](https://github.com/danzzzlll/sber_hse_hack) | NLP, Boostings
+* 1 🥇 IT Purple Hack "Churn of the SBER's salary client" (2024) | [Solution](https://github.com/danzzzlll/It_purple_hack) | LightAutoML, Boostings
+* 3 🥉 [International Digital Breakthrough](https://hacks-ai.ru/) "Churn of customers in the fast food industry" (2023) | [Solution](https://github.com/danzzzlll/international_cp-burger_king-) | Boostings, NLP
+* 3 🥉 [Digital Breakthrough](https://hacks-ai.ru/) "Prediction of the purchase of a parking space" (2023) | [Solution](https://github.com/danzzzlll/Digital_Breakthrough) | Boostings
 
 
 
