@@ -3,11 +3,30 @@
 # Github Stats
 # ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=danzzzlll&show_icons=true&theme=dark)
 ***
-# Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-FFAA00?style=for-the-badge&logo=huggingface&logoColor=black)
-***
-# [Linkedin](https://www.linkedin.com/in/daniil-okunev-37428728b/)
-# [tg]()
-# [CV]()
+
+### 👨🏻‍💻 Work experience
+
+Sber, ML engineer.
+Tasks:
+- Developed a reranking model for search and assistant retrival, which increased recommendation accuracy by 2x.
+- Trained and optimized an embedder model for semantic search; the model runs 2x faster on user queries without losing quality.
+- Researched and applied different approaches to build a RAG system. Wrote microservices on FastApi to bring the assistant into production.
+- Used LLMs for downstream tasks.
+- Built a knowledge graph: extract entities and connections from texts, enriching them with embeddings. The resulting graph was used for information retrieval and the identification of thematic communities.
+
+League of Digital Economy, R&D ML engineer.
+Tasks:
+- Investigated the possible ways of fingerprint generation(GAN, VAE, Diffusion Models, VLM). Developed a GAN-based model to solve the problem.
+- As part of the biometrics research task, trained the YOLO model on the task of detecting fingerprint phalanges and, applying OpenVINO, optimized it for low-latency inference on peripherals.
+
+Glycemia Forecasting, Research ML engineer.
+Tasks:
+- As part of a research group, he studied approaches to predicting blood sugar levels in people with type 1 diabetes.
+- Used rnn-like and transformer models to predict blood glucose.
+- Developed a pipeline for preprocessing different data from various sources and implemented a methodology for generating synthetic samples.
+
+Sber, Data Scientist.
+Tasks:
+- Worked with Greenplum: performed scoring analysis and developed customer churn forecasting models.
+- Trained and optimized gradient bousting models and classical machine learning algorithms, and ensured their monitoring in production.
+- Applied PySpark to perform ad-hoc big data analytics and operational extraction of business insights.
